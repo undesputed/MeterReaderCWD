@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Apr 06 14:05:01 SGT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\User\\AndroidStudioProjects\\MeterReaderCWD\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

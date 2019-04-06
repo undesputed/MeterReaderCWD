@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_place"
+            android:title="Sync data" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_water"
+            android:title="Water rates" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_read"
+            android:title="Read applicants" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_upload"
+            android:title="Uploaded data" />
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/ic_reports"
+            android:title="Reports" />
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_printer"
+                android:title="Printer settings" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_ip_setting"
+                android:title="IP setting" />
+        </menu>
+    </item>
+
+</menu>

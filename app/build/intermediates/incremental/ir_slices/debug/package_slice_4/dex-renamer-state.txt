@@ -1,0 +1,4 @@
+#Thu Apr 04 09:38:37 SGT 2019
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\MeterReaderCWD\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
